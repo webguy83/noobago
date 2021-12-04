@@ -1,0 +1,28 @@
+{
+    "noobs": [
+        {
+            "id": 1,
+            "title": "The moron",
+            "price": "$69",
+            "loc": "canada"
+        },
+        {
+            "id": 2,
+            "title": "Dunce",
+            "price": "$54",
+            "loc": "canada"
+        },
+        {
+            "id": 3,
+            "title": "John Shithead",
+            "price": "$49",
+            "loc": "canada"
+        },
+        {
+            "id": 4,
+            "title": "Bronx",
+            "price": "$42",
+            "loc": "thailand"
+        }
+    ]
+}
